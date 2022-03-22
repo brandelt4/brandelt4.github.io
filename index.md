@@ -21,7 +21,19 @@ Here, I post information about my research, ~~thoughts, and opinions~~ (not quit
       <a href="https://vpr-model.github.io/"><b>Variational Predictive Routing with Nested Subjective Timescales</b></a><br>
       <a href="{{site.url}}">Alex Zakharov*</a>, <a href="{{site.url}}">Qinghai Guo</a>, <a href="http://www.zfountas.com">Zafeirios Fountas*</a><br>
       *Equal contribution<br>
-      <i>Pre-print</i>
+      <i>ICLR 2022</i>
+    </p>
+</div>
+
+<br>
+
+<div style="float: left; width:600px;">
+    <p style="float: left;"><img class="project_images" src="assets/img/sand.gif" style="vertical-align:middle; horizontal-align:left;"></p>
+    <p>
+      <a href="https://arxiv.org/pdf/2201.05464.pdf/"><b>Bayesian sense of time in biological and artificial brains</b></a><br>
+      <a href="http://www.zfountas.com">Zafeirios Fountas*</a>, <a href="{{site.url}}">Alex Zakharov*</a> <br>
+      *Equal contribution<br>
+      <i>Time and Science 2022</i>
     </p>
 </div>
 
