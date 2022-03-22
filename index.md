@@ -65,7 +65,7 @@ Here, I post information about my research, ~~thoughts, and opinions~~ (not quit
     <p style="float: left;"><img class="project_images" src="assets/img/geobrain.gif" style="vertical-align:middle; horizontal-align:left;"></p>
     <p style="width:auto;">
       <a href="https://link.springer.com/chapter/10.1007/978-3-030-60365-6_17"><b>Geometric Deep Learning for Post-Menstrual Age Prediction</b></a><br>
-      Vitalis Vosylius, Andy Wang, Cemlyn Waters, <a href="{{site.url}}">Alex Zakharov</a>, Francis Ward, Loic Le Folgoc, John Cupitt, Antonios Makropoulos, Andreas Schuh, Daniel Rueckert, Amir Alansary <br>
+      <a>Vitalis Vosylius</a>, <a>Andy Wang</a>, <a>Cemlyn Waters</a>, <a href="{{site.url}}">Alex Zakharov</a>, <a>Francis Ward</a>, <a>Loic Le Folgoc</a>, <a>John Cupitt</a>, <a>Antonios Makropoulos</a>, <a>Andreas Schuh</a>, <a>Daniel Rueckert</a>, <a>Amir Alansary</a> <br>
       <i>International Workshop on Graphs in Biomedical Image Analysis 2020</i>
     </p>
 </div>
