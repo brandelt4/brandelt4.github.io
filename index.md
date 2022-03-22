@@ -16,7 +16,7 @@ Here, I post information about my research, ~~thoughts, and opinions~~ (not quit
 ## Research
 
 <div style="float: left; width:600px;">
-    <p style="float: left;"><img class="project_images" src="assets/img/vpr-gif.gif" style="vertical-align:middle; horizontal-align:left;"></p>
+    <p style="float: left;"><img class="project_images" src="assets/img/vpr-gif.gif"></p>
     <p>
       <a href="https://vpr-model.github.io/"><b>Variational Predictive Routing with Nested Subjective Timescales</b></a><br>
       <a href="{{site.url}}">Alex Zakharov*</a>, <a href="{{site.url}}">Qinghai Guo</a>, <a href="http://www.zfountas.com">Zafeirios Fountas*</a><br>
