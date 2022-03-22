@@ -30,7 +30,7 @@ Here, I post information about my research, ~~thoughts, and opinions~~ (not quit
 <div style="float: left; width:600px;">
     <p style="float: left;"><img class="project_images" src="assets/img/sand.gif" style="vertical-align:middle; horizontal-align:left;"></p>
     <p>
-      <a href="https://arxiv.org/pdf/2201.05464.pdf/"><b>Bayesian sense of time in biological and artificial brains</b></a><br>
+      <a href="https://arxiv.org/pdf/2201.05464"><b>Bayesian sense of time in biological and artificial brains</b></a><br>
       <a href="http://www.zfountas.com">Zafeirios Fountas*</a>, <a href="{{site.url}}">Alex Zakharov*</a> <br>
       *Equal contribution<br>
       <i>Time and Science 2022</i>
@@ -56,5 +56,16 @@ Here, I post information about my research, ~~thoughts, and opinions~~ (not quit
       <a href="https://openreview.net/pdf?id=30lZDhrjonR"><b>Episodic Memory for Subjective-Timescale Models</b></a><br>
       <a href="{{site.url}}">Alex Zakharov</a>, <a href="http://mdcrosby.com/">Matthew Crosby</a>, <a href="http://www.zfountas.com">Zafeirios Fountas</a><br>
       <i>ICML 2021 Workshop on Unsupervised Reinforcement Learning</i>
+    </p>
+</div>
+
+<br>
+
+<div style="float: left;width:600px;">
+    <p style="float: left;"><img class="project_images" src="assets/img/native-inflated-original3.gif" style="vertical-align:middle; horizontal-align:left;"></p>
+    <p style="width:auto;">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-030-60365-6_17"><b>Geometric Deep Learning for Post-Menstrual Age Prediction</b></a><br>
+      Vitalis Vosylius, Andy Wang, Cemlyn Waters, <a href="{{site.url}}">Alex Zakharov</a>, Francis Ward, Loic Le Folgoc, John Cupitt, Antonios Makropoulos, Andreas Schuh, Daniel Rueckert, Amir Alansary
+      <i>International Workshop on Graphs in Biomedical Image Analysis 2020</i>
     </p>
 </div>
