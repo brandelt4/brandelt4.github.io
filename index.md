@@ -44,7 +44,7 @@ Here, I post information about my research, ~~thoughts, and opinions~~ (not quit
     <p>
       <a href="https://ucbtns.github.io/explore/index.html"><b>Exploration and preference satisfaction trade-off in reward-free learning</b></a><br>
       <a href="https://ucbtns.github.io/">Noor Sajid</a>, <a href="https://ptigas.com/">Panagiotis Tigas</a>, <a href="{{site.url}}">Alexey Zakharov</a>, <a href="http://www.zfountas.com">Zafeirios Fountas</a>, <a href="https://scholar.google.com/citations?user=q_4u0aoAAAAJ&hl=en">Karl Friston</a><br>
-      <i>Pre-print</i>
+      <i>ICML 2021 Workshop on Unsupervised Reinforcement Learning</i>
     </p>
 </div>
 
