@@ -43,7 +43,7 @@ Here, I post information about my research, ~~thoughts, and opinions~~ (not quit
     <p style="float: left;"><img class="project_images" src="assets/img/explor.gif" style="vertical-align:middle; horizontal-align:left;"></p>
     <p>
       <a href="https://ucbtns.github.io/explore/index.html"><b>Exploration and preference satisfaction trade-off in reward-free learning</b></a><br>
-      <a href="https://ucbtns.github.io/">Noor Sajid</a>, <a href="https://ptigas.com/">Panagiotis Tigas</a>, <a href="{{site.url}}">Alexey Zakharov</a>, <a href="http://www.zfountas.com">Zafeirios Fountas</a>, <a href="https://scholar.google.com/citations?user=q_4u0aoAAAAJ&hl=en">Karl Friston</a><br>
+      <a href="https://ucbtns.github.io/">Noor Sajid</a>, <a href="https://ptigas.com/">Panagiotis Tigas</a>, <a href="{{site.url}}">Alex Zakharov</a>, <a href="http://www.zfountas.com">Zafeirios Fountas</a>, <a href="https://scholar.google.com/citations?user=q_4u0aoAAAAJ&hl=en">Karl Friston</a><br>
       <i>ICML 2021 Workshop on Unsupervised Reinforcement Learning</i>
     </p>
 </div>
@@ -62,7 +62,7 @@ Here, I post information about my research, ~~thoughts, and opinions~~ (not quit
 <br>
 
 <div style="float: left;width:600px;">
-    <p style="float: left;"><img class="project_images" src="assets/img/native-inflated-original3.gif" style="vertical-align:middle; horizontal-align:left;"></p>
+    <p style="float: left;"><img class="project_images" src="assets/img/geobrain.gif" style="vertical-align:middle; horizontal-align:left;"></p>
     <p style="width:auto;">
       <a href="https://link.springer.com/chapter/10.1007/978-3-030-60365-6_17"><b>Geometric Deep Learning for Post-Menstrual Age Prediction</b></a><br>
       Vitalis Vosylius, Andy Wang, Cemlyn Waters, <a href="{{site.url}}">Alex Zakharov</a>, Francis Ward, Loic Le Folgoc, John Cupitt, Antonios Makropoulos, Andreas Schuh, Daniel Rueckert, Amir Alansary
