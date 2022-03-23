@@ -12,6 +12,9 @@ I hold a Master's degree in Artificial Intelligence from Imperial College London
 
 Here, I post information about my research, ~~thoughts, and opinions~~ (not quite there yet).
 
+If you wish to collaborate or simply contact me, drop me an email at brandelt4(@)gmail(.)com.
+
+<br>
 
 ## Research
 
