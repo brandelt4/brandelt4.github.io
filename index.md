@@ -22,7 +22,7 @@ If you wish to collaborate or simply contact me, drop me an email at brandelt4(@
     <p style="float: left;"><img class="project_images" src="assets/img/vpr-gif.gif"></p>
     <p>
       <a href="https://vpr-model.github.io/"><b>Variational Predictive Routing with Nested Subjective Timescales</b></a><br>
-      <a href="{{site.url}}">Alex Zakharov*</a>, <a href="{{site.url}}">Qinghai Guo</a>, <a href="http://www.zfountas.com">Zafeirios Fountas*</a><br>
+      <a href="{{site.url}}" style="colour: black;">Alex Zakharov*</a>, <a href="{{site.url}}">Qinghai Guo</a>, <a href="http://www.zfountas.com">Zafeirios Fountas*</a><br>
       *Equal contribution<br>
       <i>ICLR 2022</i>
     </p>
