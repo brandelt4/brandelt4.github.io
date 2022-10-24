@@ -23,7 +23,7 @@ If you wish to collaborate or simply contact me, drop me an email at brandelt4(@
     <p>
       <a href="https://arxiv.org/abs/2207.13699"><b>Modelling non-reinforced preferences using selective attention</b></a><br>
       <a href="https://ucbtns.github.io/">N Sajid</a>, <a href="https://ptigas.com/">P Tigas</a>, <a href="http://www.zfountas.com">Z Fountas</a>, <a href="{{site.url}}">Q Guo</a>, <a href="{{site.url}}" style="colour: black;">A Zakharov</a>, <a href="{{site.url}}"> L Da Costa</a> <br>
-      <i>ICLR 2022</i>
+      <i>NeurIPS 2022, WiML</i>
     </p>
 </div>
 
