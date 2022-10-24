@@ -22,7 +22,7 @@ If you wish to collaborate or simply contact me, drop me an email at brandelt4(@
     <p style="float: left;"><img class="project_images" src="assets/img/modelling-non.png"></p>
     <p>
       <a href="https://arxiv.org/abs/2207.13699"><b>Modelling non-reinforced preferences using selective attention</b></a><br>
-      <a href="https://ucbtns.github.io/">N Sajid</a>, <a href="https://ptigas.com/">P Tigas</a>, <a href="http://www.zfountas.com">Z Fountas</a>, <a href="{{site.url}}">Q Guo</a>, <a href="{{site.url}}" style="colour: black;">A Zakharov</a>, <a href="{{site.url}}"> L Da Costa</a> 
+      <a href="https://ucbtns.github.io/">N Sajid</a>, <a href="https://ptigas.com/">P Tigas</a>, <a href="http://www.zfountas.com">Z Fountas</a>, <a href="{{site.url}}">Q Guo</a>, <a href="{{site.url}}" style="colour: black;">A Zakharov</a>, <a href="{{site.url}}"> L Da Costa</a> <br>
       <i>ICLR 2022</i>
     </p>
 </div>
@@ -31,7 +31,7 @@ If you wish to collaborate or simply contact me, drop me an email at brandelt4(@
     <p style="float: left;"><img class="project_images" src="assets/img/vpr-gif.gif"></p>
     <p>
       <a href="https://vpr-model.github.io/"><b>Variational Predictive Routing with Nested Subjective Timescales</b></a><br>
-      <a href="{{site.url}}" style="colour: black;">A Zakharov</a>, <a href="{{site.url}}">Q Guo</a>, <a href="http://www.zfountas.com">Z Fountas</a>
+      <a href="{{site.url}}" style="colour: black;">A Zakharov</a>, <a href="{{site.url}}">Q Guo</a>, <a href="http://www.zfountas.com">Z Fountas</a><br>
       <i>ICLR 2022</i>
     </p>
 </div>
