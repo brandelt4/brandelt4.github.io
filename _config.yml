@@ -2,7 +2,6 @@
 markdown:         kramdown
 highlighter:      rouge
 gems:                [jekyll-paginate, jekyll-gist, jekyll-sitemap]
-theme: hyde
 
 # Permalinks
 permalink:        pretty
