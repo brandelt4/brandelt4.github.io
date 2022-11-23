@@ -2,14 +2,18 @@
 markdown:         kramdown
 highlighter:      rouge
 gems:                [jekyll-paginate, jekyll-gist, jekyll-sitemap]
+theme: hyde
 
 # Permalinks
 permalink:        pretty
 
+domain: azak.cc    
+url: https://brandelt4.github.io  
+baseurl: /      
+
 # Setup
 title:            Alex Z
 description:      'research associate in machine learning'
-url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
