@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 gems:                [jekyll-paginate, jekyll-gist, jekyll-sitemap]
 
 # Permalinks
@@ -14,7 +14,7 @@ baseurl:          /
 
 author:
   name:           'Alex Zakharov'
-  url:            https://twitter.com/mdo
+  url:            https://scholar.google.com/citations?user=x17I0JcAAAAJ&hl=en
 
 paginate:         5
 
