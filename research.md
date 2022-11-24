@@ -23,7 +23,7 @@ More specifically, my research has been dedicated to creating better world model
 
 <img align="left" width="100" style="border: 1px solid black; margin-right: 10px" src="/assets/img/sand.gif" /> [**Bayesian sense of time in biological and artificial brains**](https://arxiv.org/pdf/2201.05464) <br>
 [Z Fountas\*](http://www.zfountas.com), [***A Zakharov***\*]({{site.url}}) (\*equal contribution)  <br>
-*Time and Science 2022, World Scientific Publishing*
+*Book chapter in Time and Science 2022, World Scientific Publishing*
 
 ---
 
