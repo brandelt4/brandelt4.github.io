@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-I am interested in building adaptive agents that can safely navigate complex environments to achieve desired outcomes. To this end, I am particularly excited about the framework of Bayesian model-based reinforcement learning. I believe it provides the natural basis for building robust and adaptive artificial agents that can deal with stochastic and partially-observable environments. 
+I am interested in building adaptive agents that can safely navigate complex environments to achieve desired outcomes. To this end, I am focussed on the framework of Bayesian model-based reinforcement learning. I believe it provides the natural basis for building robust and adaptive artificial agents that can deal with stochastic and partially-observable environments. 
 
 More specifically, my research has been dedicated to creating better world models (latent-variable generative modelling) and model-based agents with Bayesian planning objectives. 
 
