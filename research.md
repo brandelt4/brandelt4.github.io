@@ -7,6 +7,13 @@ I am interested in building adaptive agents that can safely navigate complex env
 
 More specifically, my research has been dedicated to creating better world models (latent-variable generative modelling) and model-based agents with Bayesian planning objectives. 
 
+
+---
+
+<img align="left" width="100" style="border: 1px solid black; margin-right: 10px" src="/assets/img/long-horizon.gif" /> [**Long-horizon video prediction using a dynamic latent hierarchy**](https://arxiv.org/abs/2212.14376) <br>
+[***A Zakharov***]({{site.url}}), [Q Guo]({{site.url}}), [Z Fountas](http://www.zfountas.com) <br>
+*Preprint, 2022* 
+
 ---
 
 <img align="left" width="100" style="border: 1px solid black; margin-right: 10px" src="/assets/img/non-reinforced.png" /> [**Modelling non-reinforced preferences using selective attention**](https://arxiv.org/abs/2207.13699) <br>
