@@ -1,27 +1,39 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-gems:                [jekyll-paginate, jekyll-gist, jekyll-sitemap]
+# Site Configuration
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate, jekyll-gist, jekyll-sitemap]
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
+# Site Information
 domain: azak.cc    
 url: https://brandelt4.github.io  
 baseurl: /      
 
-# Setup
-title:            Alex Z
-description:      'phd student at the university of oxford'
-baseurl:          /
+# Personal Information
+title: Alex Zakharov
+tagline: PhD Student in Machine Learning
+description: 'PhD Student at University of Oxford'
 
 author:
-  name:           'Alex Zakharov'
-  url:            https://scholar.google.com/citations?user=x17I0JcAAAAJ&hl=en
+  name: 'Alex Zakharov'
+  email: 'brandelt4@gmail.com'
+  affiliation: 'University of Oxford'
+  lab: 'Whiteson Research Lab'
+  url: https://scholar.google.com/citations?user=x17I0JcAAAAJ&hl=en
 
-paginate:         5
+# Pagination
+paginate: 5
 
+# Social Links
 links:
+  email: brandelt4@gmail.com
   googlescholar: https://scholar.google.com/citations?user=x17I0JcAAAAJ&hl=en
   twitter: https://twitter.com/az_prd
+  github: https://github.com/brandelt4
+
+# Build settings
+safe: true
+incremental: false
 

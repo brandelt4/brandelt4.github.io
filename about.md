@@ -1,14 +1,55 @@
 ---
-layout: page
+layout: default
 title: About
 ---
 
-My name is Alex, and I am a PhD student at the Whiteson Research Lab, University of Oxford, where I am supervised by [Prof Shimon Whiteson](https://www.cs.ox.ac.uk/people/shimon.whiteson/).
+<div class="page-content container">
+  <h1 class="page-title">About Me</h1>
+  
+  <div class="about-content animate-fade-in-up">
+    <p>
+      My name is <strong>Alex Zakharov</strong>, and I am a PhD student at the <strong>Whiteson Research Lab</strong> 
+      at the University of Oxford, where I am supervised by 
+      <a href="https://www.cs.ox.ac.uk/people/shimon.whiteson/" target="_blank">Prof Shimon Whiteson</a>.
+    </p>
 
-Previously, I worked as a research associate at Huawei 2012 Laboratories in London, focussing on *Bayesian model-based RL*, *representation learning*, and *generative models*. I hold a Master's degree in Artificial Intelligence from Imperial College London, where I was supervised by [Dr. Zafeirios Fountas](http://www.zfountas.com) and [Dr. Matthew Crosby](http://mdcrosby.com/). Prior to Imperial College, I completed a Bachelor's degree at University College London, where I was supervised by [Prof. Mark Miodownik](http://www.markmiodownik.net/).
+    <p>
+      Previously, I worked as a research associate at <strong>Huawei 2012 Laboratories</strong> in London, 
+      focusing on <em>Bayesian model-based RL</em>, <em>representation learning</em>, and <em>generative models</em>. 
+      I hold a Master's degree in Artificial Intelligence from <strong>Imperial College London</strong>, where I was 
+      supervised by <a href="http://www.zfountas.com" target="_blank">Dr. Zafeirios Fountas</a> and 
+      <a href="http://mdcrosby.com/" target="_blank">Dr. Matthew Crosby</a>. 
+      Prior to Imperial College, I completed a Bachelor's degree at <strong>University College London</strong>, 
+      where I was supervised by <a href="http://www.markmiodownik.net/" target="_blank">Prof. Mark Miodownik</a>.
+    </p>
 
-Here, I post information about my research projects -- check out my [**research**]({{site.url}}/research) page.
+    <h2>Research Interests</h2>
+    <p>
+      I am interested in building adaptive agents that can safely navigate complex environments to achieve desired outcomes. 
+      To this end, I am focused on the framework of <strong>Bayesian model-based reinforcement learning</strong>. 
+      I believe it provides the natural basis for building robust and adaptive artificial agents that can deal with 
+      stochastic and partially-observable environments.
+    </p>
 
-If you wish to collaborate or simply contact me, drop me an email at brandelt4(@)gmail(.)com.
-Thanks!
+    <p>
+      More specifically, my research has been dedicated to creating better world models (latent-variable generative modeling) 
+      and model-based agents with Bayesian planning objectives.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      If you wish to collaborate or simply contact me, drop me an email at 
+      <a href="mailto:brandelt4@gmail.com">brandelt4@gmail.com</a>.
+    </p>
+    
+    <p>Thanks for visiting my website!</p>
+    
+    <div style="text-align: center; margin-top: 3rem;">
+      <a href="/research" class="social-link">
+        <span>🔬</span>
+        <span>View My Research</span>
+      </a>
+    </div>
+  </div>
+</div>
 

@@ -1,15 +1,68 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} - {{ site.tagline }}
+    {% else %}
+      {{ page.title }} - {{ site.title }}
+    {% endif %}
+  </title>
+  
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="{{ site.author.name }}">
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/minimalist.css">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/public/favicon.ico">
+  
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+  
+  {% include google-analytics.html %}
+</head>
 
-  {% include head.html %}
-
-  <body>
-
-    {% include sidebar.html %}
-
-    <div class="content container">
-      {{ content }}
+<body>
+  <header class="header">
+    <div class="header-content">
+      <a href="/" class="logo">{{ site.title }}</a>
+      <div class="mobile-menu-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+          <li><a href="/about" {% if page.url == "/about/" %}class="active"{% endif %}>About</a></li>
+          <li><a href="/research" {% if page.url == "/research/" %}class="active"{% endif %}>Research</a></li>
+        </ul>
+      </nav>
     </div>
+  </header>
 
-  </body>
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. Built with Jekyll.</p>
+    </div>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="/public/js/main.js"></script>
+</body>
 </html>

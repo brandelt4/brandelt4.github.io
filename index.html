@@ -3,23 +3,112 @@ layout: default
 title: Home
 ---
 
-<div class="page">
-  <h1 class="page-title">{{ site.about }}</h1>
-  {{ content }}
-</div>
+<section class="hero">
+  <div class="container">
+    <div class="hero-content animate-fade-in-up">
+      <img src="/assets/img/logo6.jpg" alt="{{ site.author.name }}" class="profile-image">
+      <h1>{{ site.author.name }}</h1>
+      <p class="tagline">{{ site.tagline }}</p>
+      <p class="description">
+        {{ site.author.affiliation }} • {{ site.author.lab }}
+      </p>
+      
+      <div class="social-links">
+        <a href="mailto:{{ site.links.email }}" class="social-link">
+          <span>📧</span>
+          <span>Email</span>
+        </a>
+        <a href="{{ site.links.googlescholar }}" class="social-link" target="_blank">
+          <span>🎓</span>
+          <span>Google Scholar</span>
+        </a>
+        <a href="{{ site.links.twitter }}" class="social-link" target="_blank">
+          <span>🐦</span>
+          <span>Twitter</span>
+        </a>
+        {% if site.links.github %}
+        <a href="{{ site.links.github }}" class="social-link" target="_blank">
+          <span>💻</span>
+          <span>GitHub</span>
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>
 
-<!-- <div class="page">
-  {{ site.research.content }}
-</div> -->
-
-
-<!-- {% assign sorted = (site.pages) %}
-
-{% for my_page in sorted %}
-    {% if my_page.title == 'Research' %}    
-        {{ my_page.content }}
-    {% endif %}
-{% endfor %} -->
+<section class="main-content">
+  <div class="container">
+    <div class="content-section animate-fade-in-up">
+      <h2 class="section-title">About Me</h2>
+      <div class="about-content">
+        <p>
+          I am a PhD student at the <strong>Whiteson Research Lab</strong> at the <strong>University of Oxford</strong>, 
+          where I am supervised by <a href="https://www.cs.ox.ac.uk/people/shimon.whiteson/" target="_blank">Prof Shimon Whiteson</a>.
+        </p>
+        
+        <p>
+          My research focuses on building adaptive agents that can safely navigate complex environments to achieve desired outcomes. 
+          I am particularly interested in <strong>Bayesian model-based reinforcement learning</strong>, which I believe provides 
+          the natural basis for building robust and adaptive artificial agents that can deal with stochastic and 
+          partially-observable environments.
+        </p>
+        
+        <p>
+          Previously, I worked as a research associate at <strong>Huawei 2012 Laboratories</strong> in London, 
+          focusing on Bayesian model-based RL, representation learning, and generative models. 
+          I hold a Master's degree in Artificial Intelligence from <strong>Imperial College London</strong>.
+        </p>
+        
+        <p style="text-align: center; margin-top: 2rem;">
+          <a href="/research" class="social-link">
+            <span>🔬</span>
+            <span>View My Research</span>
+          </a>
+        </p>
+      </div>
+    </div>
+    
+    <div class="content-section animate-fade-in-up">
+      <h2 class="section-title">Recent Research</h2>
+      <div class="research-grid">
+        <div class="research-item">
+          <img src="/assets/img/goalladder.gif" alt="GoalLadder" class="research-image">
+          <div class="research-content">
+            <h3><a href="" target="_blank">GoalLadder: Incremental goal discovery with vision-language models</a></h3>
+            <p class="research-authors"><strong>A Zakharov</strong>, S Whiteson</p>
+            <p class="research-venue">Preprint, 2025</p>
+          </div>
+        </div>
+        
+        <div class="research-item">
+          <img src="/assets/img/long-horizon.gif" alt="Long-horizon video prediction" class="research-image">
+          <div class="research-content">
+            <h3><a href="https://arxiv.org/abs/2212.14376" target="_blank">Long-horizon video prediction using a dynamic latent hierarchy</a></h3>
+            <p class="research-authors"><strong>A Zakharov</strong>, Q Guo, Z Fountas</p>
+            <p class="research-venue">Preprint, 2022</p>
+          </div>
+        </div>
+        
+        <div class="research-item">
+          <img src="/assets/img/non-reinforced.png" alt="Non-reinforced preferences" class="research-image">
+          <div class="research-content">
+            <h3><a href="https://arxiv.org/abs/2207.13699" target="_blank">Modelling non-reinforced preferences using selective attention</a></h3>
+            <p class="research-authors">N Sajid, P Tigas, Z Fountas, Q Guo, <strong>A Zakharov</strong>, L Da Costa</p>
+            <p class="research-venue">NeurIPS 2022, WiML</p>
+          </div>
+        </div>
+      </div>
+      
+      <p style="text-align: center; margin-top: 3rem;">
+        <a href="/research" class="social-link">
+          <span>📄</span>
+          <span>View All Publications</span>
+        </a>
+      </p>
+    </div>
+  </div>
+</section>
 
 
 
