@@ -8,9 +8,9 @@ title: About
   
   <div class="about-content animate-fade-in-up">
     <p>
-      My name is <strong>Alex Zakharov</strong>, and I am a PhD student at the <strong>Whiteson Research Lab</strong> 
+      My name is <strong>Alexey Zakharov</strong>, and I am a PhD student at the <strong>Whiteson Research Lab</strong> 
       at the University of Oxford, where I am supervised by 
-      <a href="https://www.cs.ox.ac.uk/people/shimon.whiteson/" target="_blank">Prof Shimon Whiteson</a>.
+      <a href="https://www.cs.ox.ac.uk/people/shimon.whiteson/" target="_blank">Prof Shimon Whiteson</a>. I am also currently a research intern at <strong>Five AI</strong>, working on <strong>VLAs</strong> and <strong>autonomous driving</strong>.
     </p>
 
     <p>
@@ -25,10 +25,8 @@ title: About
 
     <h2>Research Interests</h2>
     <p>
-      I am interested in building adaptive agents that can safely navigate complex environments to achieve desired outcomes. 
-      To this end, I am focused on the framework of <strong>Bayesian model-based reinforcement learning</strong>. 
-      I believe it provides the natural basis for building robust and adaptive artificial agents that can deal with 
-      stochastic and partially-observable environments.
+      My research focuses on building adaptive agents that can safely navigate complex environments to achieve desired outcomes. 
+      I am particularly interested in <strong>model-based reinforcement learning, VLAs, and foundation models</strong>.
     </p>
 
     <p>
@@ -39,7 +37,7 @@ title: About
     <h2>Contact</h2>
     <p>
       If you wish to collaborate or simply contact me, drop me an email at 
-      <a href="mailto:brandelt4@gmail.com">brandelt4@gmail.com</a>.
+      <a href="mailto:alexey.zakharov@cs.ox.ac.uk">alexey.zakharov@cs.ox.ac.uk</a>.
     </p>
     
     <p>Thanks for visiting my website!</p>
