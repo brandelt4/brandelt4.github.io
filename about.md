@@ -29,11 +29,6 @@ title: About
       I am particularly interested in <strong>model-based reinforcement learning, VLAs, and foundation models</strong>.
     </p>
 
-    <p>
-      More specifically, my research has been dedicated to creating better world models (latent-variable generative modeling) 
-      and model-based agents with Bayesian planning objectives.
-    </p>
-
     <h2>Contact</h2>
     <p>
       If you wish to collaborate or simply contact me, drop me an email at 
