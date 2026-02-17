@@ -25,6 +25,15 @@ title: Research
     <div class="research-grid">
 
       <div class="research-item">
+        <img src="/assets/img/MaskLAM2.png" alt="MaskLAM" class="research-image">
+        <div class="research-content">
+          <h3><a href="https://arxiv.org/abs/2602.02259" target="_blank">Segment to Focus: Guiding Latent Action Models in the Presence of Distractors</a></h3>
+          <p class="research-authors">H Adnan, MT Jackson, <strong>A Zakharov</strong></p>
+          <p class="research-venue">Preprint, 2026</p>
+        </div>
+      </div>
+
+      <div class="research-item">
         <img src="/assets/img/goalladder.gif" alt="GoalDiscovery" class="research-image">
         <div class="research-content">
           <h3><a href="https://arxiv.org/abs/2506.16396" target="_blank">GoalLadder: Incremental goal discovery with vision-language models</a></h3>
